@@ -1,4 +1,4 @@
-package com.tutorial.spring.aop;
+package com.css.spring.aop;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

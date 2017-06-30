@@ -1,8 +1,8 @@
-package com.tutorial.spring.aop.bo.impl;
+package com.css.spring.aop.bo.impl;
 
 import org.springframework.aop.framework.AopContext;
 
-import com.tutorial.spring.aop.bo.CustomerBo;
+import com.css.spring.aop.bo.CustomerBo;
 
 /**
  * Created by kishore on 22/1/17.

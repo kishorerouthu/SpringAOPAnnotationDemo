@@ -1,4 +1,4 @@
-package com.tutorial.spring.aop.bo;
+package com.css.spring.aop.bo;
 
 /**
  * Created by kishore on 21/1/17.

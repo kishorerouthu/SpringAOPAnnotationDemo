@@ -1,9 +1,9 @@
-package com.tutorial.spring.aop;
+package com.css.spring.aop;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.tutorial.spring.aop.bo.CustomerBo;
+import com.css.spring.aop.bo.CustomerBo;
 
 /**
  * Hello world!

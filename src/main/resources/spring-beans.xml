@@ -8,9 +8,9 @@
 
     <aop:aspectj-autoproxy expose-proxy="true"/>
 
-    <bean id="customerBo" class="com.tutorial.spring.aop.bo.impl.CustomerBoImpl"/>
+    <bean id="customerBo" class="com.css.spring.aop.bo.impl.CustomerBoImpl"/>
 
-    <bean class="com.tutorial.spring.aop.aspect.LoggingAspect"/>
+    <bean class="com.css.spring.aop.aspect.LoggingAspect"/>
 
 
 </beans>
