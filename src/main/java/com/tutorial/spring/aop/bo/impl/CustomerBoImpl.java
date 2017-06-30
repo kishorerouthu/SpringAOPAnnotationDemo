@@ -1,5 +1,7 @@
 package com.tutorial.spring.aop.bo.impl;
 
+import org.springframework.aop.framework.AopContext;
+
 import com.tutorial.spring.aop.bo.CustomerBo;
 
 /**
@@ -8,6 +10,7 @@ import com.tutorial.spring.aop.bo.CustomerBo;
 public class CustomerBoImpl implements CustomerBo {
 
     public void addCustomer() {
+        AopContext.currentProxy();
         System.out.println("addCustomer() is running...!");
     }
 
